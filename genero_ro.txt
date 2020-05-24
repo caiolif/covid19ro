@@ -1,3 +1,0 @@
-genero	casos	obitos
-Feminino	1194	35
-Masculino	849	48
